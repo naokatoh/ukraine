@@ -17,9 +17,10 @@ There are also international students displaced and struggling, and one Indian m
 
 
 ## Files
-- ```.csv```is a data I used to make Chen's chart in the [article](https://naokatoh.github.io/ukraine/)
-- ```.csv```is a data I used to make a packed circle chart for 2020
-- ```.csv```is a data I used to make a packed circle chart for 2016
+- ```ukraine_intl_student.csv.csv```is a data I used to make map in the [article](https://naokatoh.github.io/ukraine/)
+- ```ukraine_intl_student_2020.csv.csv```is a data I used to make a packed circle chart for 2020
+-  ```ukraine_intl_student_2016.csv.csv```is a data I used to make a packed circle chart for 2016
+- ```ukraine_international_student_pandas.ipynb```is a data analysis
 
 
 
